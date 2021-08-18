@@ -1,23 +1,23 @@
 1) A função desse site é bem executada?
 
-<b>1- Sim, ela é básica e executa bem o objetivo principal do site.</b>
+1- Sim, ela é básica e executa bem o objetivo principal do site.
 
 
 2) Você encontrou algum fime interessante que passe nesse teste? Informe.
 
-<b>2-Handmaiden, Coreia do Sul, anos 1930. Durante a ocupação japonesa, a jovem Sookee é contratada para trabalhar para uma
+2-Handmaiden, Coreia do Sul, anos 1930. Durante a ocupação japonesa, a jovem Sookee é contratada para trabalhar para uma
  herdeira nipônica, Hideko, que leva uma vida isolada ao lado do tio autoritário. Só que Sookee guarda um segredo: ela e
  um vigarista planejam desposar a herdeira, roubar sua fortuna e trancafiá-la em um sanatório. Tudo corre bem com o 
- plano, até que Sookee aos poucos começa a compreender as motivações de Hideko.</b>
+ plano, até que Sookee aos poucos começa a compreender as motivações de Hideko.
 
 3) Você encontrou algum fime interessante que não passe nesse teste? Informe.
 
- <b>Vingadores - Ultimato, Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de
+ Vingadores - Ultimato, Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de
  amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov
- lideram a resistência contra o titã louco.</b>
+ lideram a resistência contra o titã louco.
 
 4) Visualmente o site é fraco. Isso é uma afirmação.
 Diga como o site pode ser melhorado, focando sempre na experiência do usuário.
 
-<b> Eu acredito que o esquema de cores deve ser mudado, tipo de fonte, o site deveria ter mais imagens, como os posters
-dos filmes, e todo o esquema de estilização, dos botões, formulários e todas as divs e códigos possíveis do site. </b>
+Eu acredito que o esquema de cores deve ser mudado, tipo de fonte, o site deveria ter mais imagens, como os posters
+dos filmes, e todo o esquema de estilização, dos botões, formulários e todas as divs e códigos possíveis do site.
